@@ -858,9 +858,3 @@ img{
     }
 }
 
-@media (max-width: 365px) {
-    .info-item{
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
-}
